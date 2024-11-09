@@ -1,4 +1,3 @@
-// venue was hier
 use std::io::{self, Write};
 
 fn main() {
